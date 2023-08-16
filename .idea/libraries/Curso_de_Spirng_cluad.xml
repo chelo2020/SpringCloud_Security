@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Curso de Spirng cluad">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/demo01.zip!/" />
+      <root url="jar://$PROJECT_DIR$/service_product.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
